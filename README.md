@@ -1,4 +1,4 @@
-# top-100-python-redis-commands
+# list of Redis commands commonly used in Python applications, formatted for use with the redis-py module:
 
 ```python
 # String Commands
